@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 locale = 'en-us'
 title = 'Arthagaman - Discovering the Soul of India'
 theme= "PaperMod"
