@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Arthagaman - Discovering the Soul of India</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Arthagaman - Discovering the Soul of India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meghalaya</title>
+      <link>http://localhost:1313/tags/meghalaya/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/meghalaya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/tags/nature/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waterfall</title>
+      <link>http://localhost:1313/tags/waterfall/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/waterfall/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>India</title>
+      <link>http://localhost:1313/tags/india/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/india/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sohra</title>
+      <link>http://localhost:1313/tags/sohra/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sohra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/tags/travel/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/travel/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

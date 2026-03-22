@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Arthagaman - Discovering the Soul of India'
+theme= "PaperMod"
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
