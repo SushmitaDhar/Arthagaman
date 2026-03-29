@@ -3,27 +3,29 @@ locale = 'en-us'
 title = 'Arthagaman'
 theme = "PaperMod"
 
+# THE MAGIC LINE: This forces both the profile AND the posts to load!
+paginate = 5 
+
 [params]
-    # This gives it a clean, professional aesthetic
     description = "Discovering the Soul of India"
-    
-    # This turns on Dark/Light mode toggle
+   
     defaultTheme = "auto"
 
+    # This forces the first post to use a card box!
     DisableSpecialLargeFeatured = true
-    
-    # THE MAGIC LINE: This creates a beautiful 2-column grid for your travel posts
+   
+    # These create the visual grid for your travel posts
     homeInfoParams = false
     CoverOpts.card = true
 
     # This creates a welcoming "Hero" section at the top of your homepage
     [params.profileMode]
-        enabled = false
+        enabled = true 
         title = "Arthagaman"
         subtitle = "Discovering the Soul of India"
-        
+       
         # You can add a link to an image/logo of yours here later!
-        # imageUrl = "https://yourimage.com/logo.jpg" 
+        # imageUrl = "https://yourimage.com/logo.jpg"
 
 [[menu.main]]
     name = "Home"
