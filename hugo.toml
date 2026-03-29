@@ -16,7 +16,7 @@ paginate = 5
 
     # This creates your dedicated Landing Welcome Page!
     [params.profileMode]
-        enabled = true
+        enabled = false
         title = "Arthagaman"
         subtitle = "Discovering the Soul of India. Explore the hidden gems, culture, and breathtaking landscapes of the country."
         
