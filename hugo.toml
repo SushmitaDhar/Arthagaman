@@ -3,31 +3,25 @@ locale = 'en-us'
 title = 'Arthagaman'
 theme = "PaperMod"
 
-# This handles the post listings perfectly
-    pagination.pagerSize = 5 
+# This replaces the old paginate command perfectly!
+[pagination]
+    pagerSize = 5
 
 [params]
     description = "Discovering the Soul of India"
     defaultTheme = "auto"
 
-    # THE MAGIC LINES: This forces ALL posts to sit inside their nice uniform boxes
+    # Keeps all posts in clean, uniform boxes
     DisableSpecialLargeFeatured = true
     CoverOpts.card = true
 
-    # This creates your dedicated Landing Welcome Page!
+    # Keep this off so we can create a custom landing page in Step 2!
     [params.profileMode]
         enabled = false
-        title = "Arthagaman"
-        subtitle = "Discovering the Soul of India. Explore the hidden gems, culture, and breathtaking landscapes of the country."
-        
-        # We will leave this commented out for now. 
-        # When you design your logo, you will put the link here!
-        # imageUrl = "https://yourimage.com/logo.jpg" 
 
-# This creates your Top Right buttons
 [[menu.main]]
     name = "Home"
-    url = "/posts/" # <--- Clicking this will now show all your boxed blog posts!
+    url = "/"
     weight = 5
 
 [[menu.main]]
