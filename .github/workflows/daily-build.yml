@@ -1,0 +1,17 @@
+name: Daily Automated Build
+
+on:
+  schedule:
+    # This runs every day at 06:05 AM UTC (which is 11:35 AM IST)
+    - cron: '5 6 * * *'# 
+  # This allows you to also trigger it manually if you ever need to!
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages Deploy
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/pages/projects/Arthagaman/deployments" \
+          -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}"
