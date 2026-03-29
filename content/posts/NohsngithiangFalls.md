@@ -1,6 +1,6 @@
 ---
 title: "Nohsngithiang: Gazing at the Seven Sisters Fall of Meghalaya"
-date: 2026-03-30T11:00:00+05:30
+date: 2026-03-29T11:00:00+05:30
 draft: false
 description: "A breathtaking encounter with the deep valleys and mist-shrouded waterfalls of Sohra."
 cover:
