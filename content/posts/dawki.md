@@ -37,6 +37,6 @@ It reminds us that when we protect our environment and simplify our path, the "b
 
 ### Pro-Tip for Travellers
 
-If you want to see the "Floating Boats" of Dawki, plan your journey between November and February. Avoid the monsoons of clarity is yur goal!
+If you want to see the "Floating Boats" of Dawki, plan your journey between November and February. Avoid the monsoons if clarity is your goal!
 
 **Arthagaman - Discovering the Soul of India.**
