@@ -16,7 +16,7 @@ theme = "PaperMod"
 
     # This creates a welcoming "Hero" section at the top of your homepage
     [params.profileMode]
-        enabled = true
+        enabled = false
         title = "Arthagaman"
         subtitle = "Discovering the Soul of India"
         
