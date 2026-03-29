@@ -1,6 +1,6 @@
 ---
 title: "The Golden Hour in Sohra"
-date: 2026-03-20
+date: 2026-03-26
 draft: false
 description: "A reflection on the misty hills and the peace of Meghalaya."
 cover:
