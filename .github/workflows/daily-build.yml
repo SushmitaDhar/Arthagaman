@@ -3,9 +3,9 @@ name: Daily Automated Build
 on:
   schedule:
     # This runs every day at 06:05 AM UTC (which is 11:35 AM IST)
-    - cron: '5 6 * * *'# 
+    - cron: '5 6 * * *'
   # This allows you to also trigger it manually if you ever need to!
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   build:
