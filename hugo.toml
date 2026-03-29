@@ -4,8 +4,7 @@ title = 'Arthagaman'
 theme = "PaperMod"
 
 # This handles the post listings perfectly
-[pagination]
-    pagerSize = 5 
+    pagination.pagerSize = 5 
 
 [params]
     description = "Discovering the Soul of India"
