@@ -3,33 +3,31 @@ locale = 'en-us'
 title = 'Arthagaman'
 theme = "PaperMod"
 
-# THE MAGIC LINE: This forces both the profile AND the posts to load!
+# This handles the post listings perfectly
 paginate = 5 
 
 [params]
     description = "Discovering the Soul of India"
-   
     defaultTheme = "auto"
 
-    # This forces the first post to use a card box!
+    # THE MAGIC LINES: This forces ALL posts to sit inside their nice uniform boxes
     DisableSpecialLargeFeatured = true
-   
-    # These create the visual grid for your travel posts
-    homeInfoParams = false
     CoverOpts.card = true
 
-    # This creates a welcoming "Hero" section at the top of your homepage
+    # This creates your dedicated Landing Welcome Page!
     [params.profileMode]
-        enabled = true 
+        enabled = true
         title = "Arthagaman"
-        subtitle = "Discovering the Soul of India"
-       
-        # You can add a link to an image/logo of yours here later!
-        # imageUrl = "https://yourimage.com/logo.jpg"
+        subtitle = "Discovering the Soul of India. Explore the hidden gems, culture, and breathtaking landscapes of the country."
+        
+        # We will leave this commented out for now. 
+        # When you design your logo, you will put the link here!
+        # imageUrl = "https://yourimage.com/logo.jpg" 
 
+# This creates your Top Right buttons
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/posts/" # <--- Clicking this will now show all your boxed blog posts!
     weight = 5
 
 [[menu.main]]
