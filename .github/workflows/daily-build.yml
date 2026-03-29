@@ -12,6 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Cloudflare Pages Deploy
-        run: |
-          curl -X POST "https://api.cloudflare.com/client/v4/pages/projects/Arthagaman/deployments" \
-          -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}"
+        run: curl -X POST "https://api.cloudflare.com/client/v4/pages/projects/Arthagaman/deployments" -H "Authorization: Bearer ${{secrets.CLOUDFLARE_API_TOKEN }}"
