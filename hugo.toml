@@ -1,7 +1,33 @@
 baseURL = '/'
 locale = 'en-us'
-title = 'Arthagaman - Discovering the Soul of India'
-theme= "PaperMod"
+title = 'Arthagaman'
+theme = "PaperMod"
+
+[params]
+    # This gives it a clean, professional aesthetic
+    description = "Discovering the Soul of India"
+    
+    # This turns on Dark/Light mode toggle
+    defaultTheme = "auto"
+    
+    # THE MAGIC LINE: This creates a beautiful 2-column grid for your travel posts
+    homeInfoParams = false
+    CoverOpts.card = true
+
+    # This creates a welcoming "Hero" section at the top of your homepage
+    [params.profileMode]
+        enabled = true
+        title = "Arthagaman"
+        subtitle = "Discovering the Soul of India"
+        
+        # You can add a link to an image/logo of yours here later!
+        # imageUrl = "https://yourimage.com/logo.jpg" 
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 5
+
 [[menu.main]]
     name = "About"
     url = "/about/"
