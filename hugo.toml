@@ -9,6 +9,8 @@ theme = "PaperMod"
     
     # This turns on Dark/Light mode toggle
     defaultTheme = "auto"
+
+    DisableSpecialLargeFeattured = true
     
     # THE MAGIC LINE: This creates a beautiful 2-column grid for your travel posts
     homeInfoParams = false
