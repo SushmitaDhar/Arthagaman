@@ -1,6 +1,6 @@
 ---
 title: "Dawki: Where the River Meets the Sky"
-date: 2026-03-22
+date: 2026-03-28
 description: "A journey to the Umngot River, where clarity isn't just a sight—it's an experience."
 cover:
     image: "/Dawki.jpeg"
