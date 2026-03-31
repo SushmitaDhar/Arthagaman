@@ -17,7 +17,9 @@ theme = "PaperMod"
 
     # Keep this off so we can create a custom landing page in Step 2!
     [params.profileMode]
-        enabled = false
+        enabled = true
+        title = "Welcome to Arthagaman"
+        subtitle = "Let us discover the soul of India\n\nExplore the hidden gems, culture and breathtaking landscapes of the country"
 
 [[menu.main]]
     name = "Home"
