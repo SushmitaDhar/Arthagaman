@@ -19,7 +19,7 @@ theme = "PaperMod"
     [params.profileMode]
         enabled = true
         title = "Welcome to Arthagaman"
-        subtitle = "Let us discover the soul of India\n\nExplore the hidden gems, culture and breathtaking landscapes of the country"
+        subtitle = "Let us explore the hidden gems, culture and breathtaking landscapes of the country"
 
 [[menu.main]]
     name = "Home"
