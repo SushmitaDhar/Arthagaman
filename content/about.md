@@ -15,7 +15,7 @@ I created this space to seek that very meaning, capturing the moments where time
 
 ### The Purpose
 
-The goal here is simple: **To slow down.** and breathe. I want to share one story at a time, moving past the surface of sightseeing and diving into the soul of the experience.
+The goal here is simple: **To slow down** and breathe. I want to share one story at a time, moving past the surface of sightseeing and diving into the soul of the experience.
 ​This isn’t just a travel blog. It is a digital sanctuary for those who believe that wandering the outer world is ultimately a way to journey inward.
 
 **​I’m glad you’re here. Let’s wander, breathe, and discover together.**
