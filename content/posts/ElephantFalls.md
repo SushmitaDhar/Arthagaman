@@ -23,5 +23,5 @@ The sound of rushing water echoing through the canyon offers a profound sense of
 ## 🧭 Travel Tips for the Visit
 
 * **Best Time to Visit:** To see the falls in their maximum thundering glory, I recommend visiting immediately after the monsoon season (**September to November**).
-* **How to Get There:** Elephant Falls is just $12\text{ km}$ from Shillong. A cab or local bus makes for a scenic, short drive.
+* **How to Get There:** Elephant Falls is just 12 Kms. from Shillong. A cab or local bus makes for a scenic, short drive.
 * **Pro Tip:** I highly recommend walking all the way down the paved stairs. The view of all three distinct tiers from the bottom bridge is absolutely spectacular.
