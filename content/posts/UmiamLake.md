@@ -25,5 +25,5 @@ To me, this place perfectly mirrors the timeless Indian philosophy of finding de
 ## 🧭 Travel Tips for the Visit
 
 * **Best Time to Visit:** I recommend visiting during the winter and spring months (**October to April**) when the water is clear and the weather is pleasantly cool. 
-* **How to Get There:** Umiam Lake is located roughly $15\text{ km}$ before Shillong on the Guwahati-Shillong highway. It makes for an easy and highly rewarding stop on the drive in.
+* **How to Get There:** Umiam Lake is located roughly 15 Kms before Shillong on the Guwahati-Shillong highway. It makes for an easy and highly rewarding stop on the drive in.
 * **Pro Tip:** If time permits, try to visit during the golden hour just before sunset. The way the softening light reflects on the massive water body is absolutely unforgettable.
