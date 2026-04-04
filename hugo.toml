@@ -24,19 +24,7 @@ theme = "PaperMod"
 [[menu.main]]
     name = "Home"
     url = "/posts/"
-    weight = 5
-
-[[menu.main]]
-    name = "The Northeast"
-    url = "/posts/categories/the-northeast/"
     weight = 7
-    parent = "Home"
-
-[[menu.main]]
-    name = "The Northeast"
-    url = "/posts/categories/the-southern-india/"
-    weight = 9
-    parent = "Home"
 
 [[menu.main]]
     name = "About"
