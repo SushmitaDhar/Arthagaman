@@ -8,6 +8,7 @@ cover:
     alt: "A four-image collage showing a thatched gazebo, palm trees, and clean pathways in a green village in Meghalaya."
     caption: "The curated beauty of Mawlynnong: from its iconic thatched bamboo structures to its spotless lanes."
 tags: ["Meghalaya", "EastKhasiHills", "EcoTourism", "India", "RuralIndia"]
+categories: ["The Northeast"]
 ---
 
 Tucked away in the East Khasi Hills of Meghalaya lies a place that feels less like a typical village and more like a living, breathing community sanctuary. 
