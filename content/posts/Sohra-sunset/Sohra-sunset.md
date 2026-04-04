@@ -8,6 +8,7 @@ cover:
     alt: "A view of the golden Sunset in Sohra"
     caption: "The golden mist of Sohra."
 tags: ["Travel", "India", "Sohra"]
+categories: ["The Northeast"]
 ---
 
 ### The Mist and the Silence -
