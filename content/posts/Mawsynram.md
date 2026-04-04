@@ -8,6 +8,7 @@ cover:
     alt: "Emerald mounds and still waters in Mawsynram"
     caption: "The peaceful landscape and perfectly mirrored waters of Mawsynram."
 tags: ["Mawsynram", "Meghalaya", "Soul-of-India", "Arthagaman", "India" ]
+categories: ["The Northeast"]
 ---
 
 Looking at the serene landscape, one sees a breathtaking canvas of rolling emerald mounds mirrored perfectly in still, glass-like waters. Towering, slender pine trees stand like silent sentinels along the banks, their reflections creating a symmetrical dreamscape. The rustic wooden bridges and pathways invite you to slow down, breathe in the crisp air, and listen to the gentle whispers of nature. 
