@@ -8,6 +8,7 @@ cover:
     alt: "A vast, calm lake surrounded by deep green rolling hills under a soft sky"
     caption: "The peaceful, expansive waters of Umiam Lake."
 tags: ["Umiam Lake", "Meghalaya", "Shillong", "Soul of India", "Arthagaman", "India", ]
+categories: ["The Northeast"]
 ---
 
 Often the first breathtaking sight to greet travelers on the way to Shillong, Umiam Lake stands as a vast, mesmerizing expanse of water. Standing on its shores, I was immediately struck by the sheer scale of the landscape—a massive, peaceful reservoir cradled by a continuous chain of rolling, emerald-green hills. 
