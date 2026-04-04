@@ -8,6 +8,7 @@ cover:
     alt: "A powerful, layered waterfall surrounded by dense green jungle foliage"
     caption: "The magnificent, stepped cascade of Elephant Falls near Shillong."
 tags: ["Elephant Falls", "Meghalaya", "Shillong", "Waterfalls", "India", "Arthagaman", ]
+categories: ["The Northeast"]
 ---
 
 Located just a short drive from Shillong, Elephant Falls stands as one of the most magnificent and popular natural wonders in Meghalaya. Standing before it, I felt enveloped by its true essence: a powerful, multi-tiered cascade where crystal-clear water rushes down layered rocks, guided by the thick, lush embrace of a vibrant green jungle. 
