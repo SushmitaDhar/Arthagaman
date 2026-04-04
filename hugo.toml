@@ -23,7 +23,7 @@ theme = "PaperMod"
 
 [[menu.main]]
     name = "Home"
-    url = "/posts/"
+    url = "/"
     weight = 5
 
 [[menu.main]]
