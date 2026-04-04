@@ -23,13 +23,13 @@ theme = "PaperMod"
 
 [[menu.main]]
     name = "The Northeast"
-    url = "/categories/the-northeast"
+    url = "/posts/categories/the-northeast"
     weight = 7
     parent = "Home"
 
 [[menu.main]]
     name = "The Southern India"
-    url = "/categories/the-southern-india"
+    url = "/posts/categories/the-southern-india"
     weight = 8
     parent = "Home"
 
