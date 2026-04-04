@@ -22,11 +22,16 @@ theme = "PaperMod"
         subtitle = "Discovering the soul of India"
 
 [[menu.main]]
-    name = "Home"
-    url = "/posts/"
-    weight = 5
+    name = "The Northeast"
+    url = "/categories/the-northeast"
+    weight = 7
+    parent = "Home"
 
-    #test
+[[menu.main]]
+    name = "The Southern India"
+    url = "/categories/the-southern-india"
+    weight = 8
+    parent = "Home"
 
 [[menu.main]]
     name = "About"
