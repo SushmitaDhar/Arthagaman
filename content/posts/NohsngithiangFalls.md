@@ -8,6 +8,7 @@ cover:
     alt: "A panoramic view of green valleys and a massive cliff side in Meghalaya"
     caption: "The rolling green gorges of Sohra, overlooking the plains."
 tags: ["Nohsngithiang","Seven-Sisters Waterfall", "Meghalaya", "Sohra", "Waterfalls", "India", ]
+categories: ["The Northeast"]
 ---
 
 Standing on the edge of the viewpoint in Sohra (Cherrapunji), the world suddenly drops away. 
