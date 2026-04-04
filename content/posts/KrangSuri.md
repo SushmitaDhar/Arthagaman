@@ -8,6 +8,7 @@ cover:
     alt: "A four-image collage showing a bamboo viewpoint, a stone staircase path, a wide waterfall, and a small stream in a lush green jungle."
     caption: "The untamed wilderness of Krang Suri: stepping off the beaten path to find the raw heart of Meghalaya."
 tags: ["Meghalaya", "JaintiaHills", "Waterfalls", "India", "SoulOfIndia"]
+categories: ["The Northeast"]
 ---
 
 When we set out to discover the true soul of India, we rarely find it in crowded monuments or commercialized tourist hubs. More often than not, that elusive spirit is found in the quiet, heavy atmosphere of a rain-soaked forest, where the only sounds are rushing water and the rustle of leaves. 
