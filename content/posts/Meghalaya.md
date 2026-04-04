@@ -8,6 +8,7 @@ cover:
     alt: "A vast, calm lake surrounded by deep green rolling hills under a soft sky"
     caption: "The sensory experience of Meghalaya, from sweeping vistas to local handwoven threads."
 tags: ["Umiam Lake", "Meghalaya", "Shillong", "Soul of India", "Arthagaman", "India", ]
+categories: ["The Northeast"]
 ---
 
 Meghalaya, the "Abode of Clouds," is a realm where the modern world's relentless clock seems to dissolve. People should visit this mystical state not to rush through a typical sightseeing loop, but to experience the profound art of slowing down. Tucked away in the far northeast of India, its true essence is found in the emerald valleys that breathe thick mist, the ancient living root bridges grown with patient intent over centuries, and the roar of a hundred hidden waterfalls that wash away the noise of the mind. To visit Meghalaya is to step into a natural sanctuary where eco-consciousness is a way of life, offering a rare, reflective space to simply exist in absolute harmony with the wild.
