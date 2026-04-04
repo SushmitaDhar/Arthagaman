@@ -7,6 +7,7 @@ cover:
     alt: "Nohkalikai Falls in Meghalaya"
     caption: "The sheer majesty of Nohkalikai."
 tags: ["Meghalaya", "Waterfall", "Nature"]
+categories: ["The Northeast"]
 ---
 
 ### Beyond the Edge
