@@ -7,6 +7,7 @@ cover:
     alt: "Crystal clear water of Umngot River in Dawki"
     caption: "Floating on glass: The legendary Umngot River."
 tags: ["Meghalaya", "Dawki", "Umngot", "Borderlands", "Jaintia",]
+categories: ["The Northeast"]
 ---
 
 ### The Glass of Meghalaya
